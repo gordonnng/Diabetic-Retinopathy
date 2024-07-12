@@ -3,7 +3,7 @@ Final Project for STAT 447 - Statistical Computing
 Image classification of retina scans for Diabetic Retinopathy, based on a kaggle dataset.
 
 ## Contents
-- [Diabetic Retinopathy Report.pdf](https://github.com/gordonnng/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20Report.pdf) - Written report with methodology and findings
+- [Diabetic Retinopathy Report.pdf](https://github.com/gordonnng/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy.pdf) - Written report with methodology and findings
 - [exploratory-analysis.ipynb](https://github.com/gordonnng/Diabetic-Retinopathy/blob/main/exploratory-analysis.ipynb) - Initial exploratory analysis on images
 - [logistic-regression .ipynb](https://github.com/gordonnng/Diabetic-Retinopathy/blob/main/logistic-regression%20.ipynb) - Implementation of 2 logistic regression models: 1) pixel-wise logistic regression 2) logistic regression based on feature extraction
 - [logistic_regression_model_1_probabilities.csv](https://github.com/gordonnng/Diabetic-Retinopathy/blob/main/logistic_regression_model_1_probabilities.csv) - predicted probabilities for each class using the 1st logistic regression model
